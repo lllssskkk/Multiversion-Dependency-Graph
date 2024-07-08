@@ -11,5 +11,5 @@ function git_reset(config, op, branch_name, url) {
 const config = { reset: { commit: 1, branch: "main" } };
 git_reset(config, "reset", "main", "origin/main");
 
-// const config = { reset: { commit: 1, branch: "main" } };
-// git_reset(config, "reset", "main", "origin/main");
+
+// sssssss 
